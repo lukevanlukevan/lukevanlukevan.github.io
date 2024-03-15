@@ -15,8 +15,10 @@ layout: default
 	</div>
 	{% if site.author-bio %}
 	<p class="text-gray-500 pb-4">{{site.author-bio}}</p>
-	{% endif %} {{content}}
+	{% endif %}
 </div>
 
-<>{% include social-media.html %}
+{% include social-media.html %}
+
+<div>{{content}}</div>
 
