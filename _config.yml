@@ -22,7 +22,9 @@ nav-menu:
       permalink: about
     - text: Instagram
       permalink: instagram
-    - text: Blog
+    - text: Keyboards
+      permalink: keyboards
+    - text: Posts
       permalink: blog
 
 # use false to turn off any social media links
@@ -30,6 +32,7 @@ twitter: https://twitter.com/
 facebook: https://facebook.com/
 instagram: https://instagram.com/
 github: https://github.com/lukevanlukevan
+keyboards: /keyboards
 
 # footer information
 footer-msg: "Powered by Tailpages"
