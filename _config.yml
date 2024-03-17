@@ -28,9 +28,9 @@ nav-menu:
       permalink: blog
 
 # use false to turn off any social media links
-twitter: https://twitter.com/
-facebook: https://facebook.com/
-instagram: https://instagram.com/
+twitter: https://twitter.com/wobblypictures
+facebook: false
+instagram: https://instagram.com/wobblypictures
 github: https://github.com/lukevanlukevan
 keyboards: /keyboards
 
