@@ -1,7 +1,7 @@
 ---
 layout: page
-title: New Ideas
-permalink: new-ideas
+title: Building a QMK/Vial firmware from scratch
+permalink: qmk-vial-guide
 ---
 
 <div>
@@ -13,3 +13,4 @@ permalink: new-ideas
   {% endfor %}
 </div>
 
+Hello world
