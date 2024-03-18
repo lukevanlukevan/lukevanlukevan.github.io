@@ -21,7 +21,7 @@ nav-menu:
     - text: About
       permalink: about
     - text: Instagram
-      permalink: instagram
+      permalink: https://instagram.com/wobblypictures
     - text: Keyboards
       permalink: keyboards
     - text: Posts
