@@ -25,7 +25,7 @@ nav-menu:
     - text: Keyboards
       permalink: keyboards
     - text: Posts
-      permalink: false
+      permalink: posts
 
 # use false to turn off any social media links
 twitter: https://twitter.com/wobblypictures
