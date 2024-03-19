@@ -86,7 +86,10 @@ abbr:where([title]) {
 Remove the default font size and weight for headings.
 */
 
-h1,
+h1{
+	font-size: inherit;
+  font-weight: inherit;
+}
 h2,
 h3,
 h4,
@@ -94,6 +97,10 @@ h5,
 h6 {
   font-size: inherit;
   font-weight: inherit;
+}
+
+h2:hover, h3:hover, h4:hover, h5:hover, h6:hover {
+  text-decoration: underline;
 }
 
 /*
