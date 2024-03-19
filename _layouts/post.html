@@ -19,6 +19,6 @@ layout: default
 		</div>
 		{% endfor %} {% endif %}
 	</div>
-	{{content}}
+	{% include anchor_headings.html html=content anchorBody="#" %}
 </div>
 
