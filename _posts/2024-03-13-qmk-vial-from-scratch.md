@@ -74,7 +74,8 @@ My final layout was as follows:
 			["3,0", "3,1", "3,2", "3,3", "3,4", {"w":2},"3,6", "3,7", "3,8", "3,9", "3,10", "3,11"]
         ]
     }
-}```
+}
+```
 
 With the matrix positions aligned, you can now go to your main `info.json` (the one in the keyboard folder). In my case, I have a 2u key in the bottom row, and youll notice the column values skip one, it goes from `3,4` to `3,6`. Again, this is a correlation to the matrix wiring.
 
