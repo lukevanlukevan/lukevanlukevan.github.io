@@ -30,7 +30,7 @@ Next is "What powers your project?" mine is a ProMicro, so I select that. If you
 
 ## 2. Building the matrix
 
-If you have already build the board and just want to create a firmware for it, or if you're pre-planning, it's now time to build the layout in [Keyboard Layout Editor](http://www.keyboard-layout-editor.com/#/). Since I am building an ortho 4x12, I will click "Preset" at the top left and select "Planck".
+If you have already built the board and just want to create a firmware for it, or if you're pre-planning, it's now time to build the layout in [Keyboard Layout Editor](http://www.keyboard-layout-editor.com/#/). Since I am building an ortho 4x12, I will click "Preset" at the top left and select "Planck".
 
 If you need to build your layout, do so now.
 
