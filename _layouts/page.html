@@ -5,7 +5,10 @@ layout: default
 {% if site.show-nav-menu %} {% include nav.html%} {% endif %}
 
 <meta content={{page.title}} property="og:title">
-<meta content="{{page.description}}" property="og:description">
+{% if page.description %}
+	<meta content="{{ page.description }}" property="og:description">
+{% endif %}
+
 
 <div class="px-4 pt-4 prose prose-{{site.theme-color}}">
 	<h1 class="text-center mt-6 mb-6">{{ page.title }}</h1>
