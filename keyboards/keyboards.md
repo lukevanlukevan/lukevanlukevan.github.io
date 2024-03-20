@@ -12,6 +12,6 @@ Since jumping into the handwired keyboard world, I have made a few things. Click
 -   [LV47 (Planck Clone)](/keyboards/LV47)
 -   [Vandura](/keyboards/Vandura)
 
-# Guides
+## Guides
 - [Building a QMK/Vial Firmware from Scratch](/qmk-vial-guide)
 
