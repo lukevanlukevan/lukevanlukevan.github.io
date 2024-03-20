@@ -2,6 +2,7 @@
 layout: page
 title: Keyboards
 permalink: /keyboards
+description: The keyboard hub page.
 ---
 
 Since jumping into the handwired keyboard world, I have made a few things. Click through to see a breakdown for each project.
