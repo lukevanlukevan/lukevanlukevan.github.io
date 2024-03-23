@@ -142,7 +142,7 @@ Set up the matrix here so that it lines up to the matrix you will have soldered.
 ```json
 {
 	"manufacturer": "Luke Van",
-	"keyboard_name": "lukevanlukevan/fleetline",
+	"keyboard_name": "Fleetline",
 	"maintainer": "lukevanlukevan",
 	"bootloader": "caterina",
 	"diode_direction": "COL2ROW",
@@ -246,9 +246,9 @@ For ease of wiring, I will connect the rightmost column to `D3`, the next to the
 
 ### keymap.c
 
-In the `vial` keymap folder again, open the `keymap.c` and ensure there are a matching amount of keys for the rows and columns. Be sure to watch for trailing commas in this file, as well as your `vial.json` and `info.json`. The last key for each of them should not have a column at the end.
+In the `vial` keymap folder again, open the `keymap.c`. In this file, there is a section named `layout_YOURLAYOUTNAME` this bit must be exactly the same as the name in your `info.json`. Within this layout, there are rows of key codes for each column, and lines for each row. You can manually assign your base keycodes here using the [QMK keycodes](https://github.com/qmk/qmk_firmware/blob/master/docs/keycodes.md#basic-keycodes-idbasic-keycodes). The most important part is to make sure you have the same amount of keys as you have have switches in your matrix. Be sure to watch for trailing commas in this file, as well as your `vial.json` and `info.json`. The last key for each of them should not have a comma at the end.
 
-In this file, you can defined comma delimited key codes as default, although these are all redefinable in Vial, so I opt for `KC_A` for all them.
+These key codes are all redefinable in Vial, so I opt for `KC_A` for all them, just to get to vial as soon as possible.
 
 ### config.h
 
