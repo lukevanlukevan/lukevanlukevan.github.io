@@ -33,7 +33,7 @@ Armed with my new knowledge of how the matrix works, I defined my columns the co
 
 You can find the [firmware here](https://www.github.com/lukevanlukevan/vial-qmk/tree/vial/keyboards/lukevanlukevan/vandura).
 
-I basically gutted the Planck build to make this, as I didn't have any other switches, and I have a few sets of caps in the mail, but this is the final result with the leftover keys in the meantime.
+I basically gutted the Planck build to make this, as I didn't have any other switches, and I have a few sets of caps in the mail, ~~but this is the final result with the leftover keys in the meantime.~~ They have arrived, below is the completed board.
 
 ![](../assets/img/keeba/Vandura_GoodCaps.jpg)
 ![](../assets/img/keeba/Vandura_Back.jpeg)
