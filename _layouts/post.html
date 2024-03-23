@@ -2,7 +2,14 @@
 layout: default
 ---
 
-{% if site.show-nav-menu %} {% include nav.html%} {% endif %}
+{% if post.image %}
+<meta
+	content="{{ site.baseurl }}/assets/img/{{ page.image }}"
+	property="og:image"
+/>
+<!-- {% else %}
+  <meta content="{{ site.url }}/assets/img/logo-high-resolution.png" property="og:image"> -->
+{% endif %} {% if site.show-nav-menu %} {% include nav.html%} {% endif %}
 
 <div class="px-4 pt-4 prose prose-{{site.theme-color}}">
 	<h1 class="text-center mt-6 mb-6">{{ page.title }}</h1>
