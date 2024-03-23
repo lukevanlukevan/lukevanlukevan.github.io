@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Vandura
-permalink: /keyboards/Vandura
+permalink: /keyboards/vandura
 image: assets/img/keeba/Vandura_GoodCaps.jpg
 ---
 
