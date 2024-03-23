@@ -2,7 +2,7 @@
 layout: page
 title: Vandura
 permalink: /keyboards/Vandura
-image: keeba/Vandura_GoodCaps.jpg
+image: assets/img/keeba/Vandura_GoodCaps.jpg
 ---
 
 Having tried the unreadable Planck for a week, I realized the grass is always greener. The keyboard I wanted to try for so long was not for me, and I couldn't get above 30wpm on it, compared to my much more reasonable 90ish.
