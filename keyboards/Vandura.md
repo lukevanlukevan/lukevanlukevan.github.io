@@ -2,6 +2,7 @@
 layout: page
 title: Vandura
 permalink: /keyboards/Vandura
+image: keeba/Vandura_GoodCaps.jpg
 ---
 
 Having tried the unreadable Planck for a week, I realized the grass is always greener. The keyboard I wanted to try for so long was not for me, and I couldn't get above 30wpm on it, compared to my much more reasonable 90ish.
@@ -34,7 +35,7 @@ You can find the [firmware here](https://www.github.com/lukevanlukevan/vial-qmk/
 
 I basically gutted the Planck build to make this, as I didn't have any other switches, and I have a few sets of caps in the mail, but this is the final result with the leftover keys in the meantime.
 
-![](../assets/img/keeba/Vandura_BadCaps.jpeg)
+![](../assets/img/keeba/Vandura_GoodCaps.jpg)
 ![](../assets/img/keeba/Vandura_Back.jpeg)
 
 I left long leads to the controller as im not exactly sure if where I will route it in the case.
