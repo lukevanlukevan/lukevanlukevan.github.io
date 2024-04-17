@@ -13,5 +13,3 @@ Intro here
 
 
 ## Firmware
-
-
